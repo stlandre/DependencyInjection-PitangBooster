@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BmL1WAu753N9akFa+Ne6MI8EVvHjDBHCqZh+knpXoMVjboYSzq4FZQzkHFhzoEeHIJ7c5n2SqtkvW7YE20hPqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\als\\source\\repos\\pitang.booster.dependency.injection.1.2\\pitang.booster.dependency.injection.1.2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\als\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\als\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\als\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\als\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\als\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\als\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
